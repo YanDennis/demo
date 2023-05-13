@@ -5,6 +5,8 @@ hello git ~
 hello git ~
 hello git ~
 hello git ~
+hello git ~news api
+hello git ~
 hello git ~
 hello git ~
 hello git ~
